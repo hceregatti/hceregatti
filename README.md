@@ -17,17 +17,23 @@
 ```bash
 $ cat sobre.txt
 
-Desenvolvedor apaixonado por tecnologia. Gosto de pegar um processo manual e
-transformá-lo em um sistema: do cadastro do cliente à emissão do contrato,
-do cálculo de custo ao orçamento em PDF.
+Desenvolvedor com atuação em sistemas web, integrações e automação de
+processos comerciais.
 
-Foco: código limpo, boa experiência de usuário e entregas que funcionam.
+Atuo no desenvolvimento de aplicações com JavaScript, Next.js e Node.js, com
+foco em APIs, modelagem e consultas em banco de dados (SQL Server, PostgreSQL)
+e validação de integrações com SoapUI e Insomnia.
+
+Áreas de interesse: desenvolvimento multiplataforma (web, mobile e desktop),
+integração entre sistemas, arquitetura de APIs, banco de dados, automação de
+processos, geração de documentos e qualidade de software.
 ```
 
 ```js
 const dev = {
   nome: "Luís H. Ceregatti",
-  funcao: "Desenvolvedor de Software",
+  funcao: "Desenvolvedor",
+  interesses: ["desenvolvimento multiplataforma", "integração entre sistemas", "arquitetura de APIs", "banco de dados", "automação", "qualidade de software"],
   linguagens: ["JavaScript", "TypeScript", "Swift"],
   stack: ["React", "Next.js", "Node.js", "Tailwind CSS"],
   bancos: ["SQL Server", "PostgreSQL", "MySQL"],
@@ -36,10 +42,10 @@ const dev = {
 };
 ```
 
-- <img src="https://api.iconify.design/lucide/telescope.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Construindo sistemas web e apps para uso real, de calculadoras a plataformas comerciais
-- <img src="https://api.iconify.design/lucide/sprout.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Estudando e praticando todos os dias
-- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)
-- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Aberto a colaborações e projetos open source
+<img src="https://api.iconify.design/lucide/telescope.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Foco em desenvolvimento multiplataforma (web, mobile e desktop) e integração entre sistemas<br/>
+<img src="https://api.iconify.design/lucide/sprout.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Estudando e praticando todos os dias<br/>
+<img src="https://api.iconify.design/lucide/message-circle.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)<br/>
+<img src="https://api.iconify.design/lucide/handshake.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Aberto a colaborações e projetos open source
 
 <br/>
 
