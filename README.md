@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F2784B&center=true&vCenter=true&width=640&lines=%3E+criando+sistemas+que+resolvem+problemas+reais;%3E+do+or%C3%A7amento+ao+contrato%2C+tudo+automatizado;%3E+sempre+aprendendo%2C+sempre+entregando+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=F2784B&center=true&vCenter=true&width=640&lines=%3E+criando+sistemas+que+resolvem+problemas+reais;%3E+do+or%C3%A7amento+ao+contrato%2C+tudo+automatizado;%3E+sempre+aprendendo%2C+sempre+entregando)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lu%C3%ADs%20H.%20Ceregatti-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=F2784B)](https://www.linkedin.com/in/hceregatti)
 [![Email](https://img.shields.io/badge/Email-contato-1a1a1a?style=for-the-badge&logo=gmail&logoColor=F2784B)](mailto:hceregatti01@gmail.com)
@@ -32,14 +32,14 @@ const dev = {
   stack: ["React", "Next.js", "Node.js", "Tailwind CSS"],
   bancos: ["SQL Server", "PostgreSQL", "MySQL"],
   ferramentas: ["Git", "SoapUI", "Insomnia"],
-  status: "construindo, aprendendo e entregando 🚀",
+  status: "construindo, aprendendo e entregando",
 };
 ```
 
-- 🔭 Construindo sistemas web e apps para uso real, de calculadoras a plataformas comerciais
-- 🌱 Estudando e praticando todos os dias
-- 💬 Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)
-- 🤝 Aberto a colaborações e projetos open source
+- <img src="https://api.iconify.design/lucide/telescope.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Construindo sistemas web e apps para uso real, de calculadoras a plataformas comerciais
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Estudando e praticando todos os dias
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)
+- <img src="https://api.iconify.design/lucide/handshake.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Aberto a colaborações e projetos open source
 
 <br/>
 
@@ -47,7 +47,7 @@ const dev = {
 
 <table>
   <tr>
-    <td><b>🎨 Front-End</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/palette.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Front-End</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -62,7 +62,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b>⚙️ Back-End</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/server.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Back-End</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -70,7 +70,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Bancos</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/database.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Bancos</b></td>
     <td>
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -79,7 +79,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b>🖥️ Desktop</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/monitor.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Desktop</b></td>
     <td>
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
@@ -87,14 +87,14 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b>🧪 Testes</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Testes</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/Node%20Test%20Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b>🧰 Ferramentas</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/wrench.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Ferramentas</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -111,7 +111,7 @@ const dev = {
 
 ## `./projetos`
 
-### 🧮 Calc3D
+### <img src="https://api.iconify.design/lucide/calculator.svg?color=%23F2784B&height=22" height="22" align="top" alt="" /> Calc3D
 
 > Calculadora de **custo real e preço de venda** para impressão 3D. App nativo para macOS, versão web e app para Windows.
 
@@ -145,7 +145,7 @@ const dev = {
 
 <br/>
 
-### 🔒 Portal do Vendedor
+### <img src="https://api.iconify.design/lucide/lock.svg?color=%23F2784B&height=22" height="22" align="top" alt="" /> Portal do Vendedor
 
 > Plataforma web corporativa para a operação comercial de venda e locação de containers, do cadastro do cliente à emissão do contrato. **Repositório privado**: abaixo, o que foi construído.
 
@@ -163,17 +163,17 @@ const dev = {
 
 <br/>
 
-**🔐 Autenticação e acesso**
+<b><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Autenticação e acesso</b>
 - Login por e-mail ou nome de usuário, com **JWT** e senhas com hash (`bcrypt`)
 - Perfis `admin` e `seller`: o vendedor vê só os próprios clientes e documentos; o admin tem visão global, gerencia usuários e produtos e exporta CSV
 
-**📄 Clientes e documentos**
+<b><img src="https://api.iconify.design/lucide/file-text.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Clientes e documentos</b>
 - Cadastro de clientes com busca por nome ou CPF/CNPJ, endereço automático via **ViaCEP** e consulta de **CNPJ**
 - **PDF** de capas, orçamentos (venda e locação) e ordens de serviço, com numeração sequencial no banco
 - Contratos de compra e venda e de locação a partir de templates internos, em **PDF** e **DOCX**
 - Reaproveitamento de documentos salvos (capa → OS → contrato)
 
-**📊 Gestão e CRM**
+<b><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Gestão e CRM</b>
 - Dashboard com indicadores de orçamentos, clientes e últimos documentos
 - CRM com reativação de clientes, unificação de duplicados, metas de vendas, fila de trabalho, notificações e anexos
 - **Auditoria**, suporte interno, tours guiados e exportação para **Excel**
@@ -194,7 +194,7 @@ const dev = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hceregatti&bg_color=1a1a1a&color=F2784B&line=C2410C&point=F2784B&area=true&area_color=C2410C&hide_border=true" alt="Atividade" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=hceregatti&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus" />
+<img src="https://github-trophies.vercel.app/?username=hceregatti&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Troféus" />
 
 </div>
 
