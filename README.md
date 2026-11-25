@@ -42,10 +42,10 @@ const dev = {
 };
 ```
 
-<img src="https://api.iconify.design/lucide/telescope.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Foco em desenvolvimento multiplataforma (web, mobile e desktop) e integração entre sistemas<br/>
-<img src="https://api.iconify.design/lucide/sprout.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Estudando e praticando todos os dias<br/>
-<img src="https://api.iconify.design/lucide/message-circle.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)<br/>
-<img src="https://api.iconify.design/lucide/handshake.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Aberto a colaborações e projetos open source
+<p><img src="https://api.iconify.design/lucide/telescope.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp; Foco em desenvolvimento multiplataforma (web, mobile e desktop) e integração entre sistemas</p>
+<p><img src="https://api.iconify.design/lucide/sprout.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp; Estudando e praticando todos os dias</p>
+<p><img src="https://api.iconify.design/lucide/message-circle.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp; Pergunte sobre: JavaScript, Next.js, APIs, bancos de dados e geração de documentos (PDF/DOCX)</p>
+<p><img src="https://api.iconify.design/lucide/handshake.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp; Aberto a colaborações e projetos open source</p>
 
 <br/>
 
@@ -53,7 +53,7 @@ const dev = {
 
 <table>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/palette.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Front-End</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/palette.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Front-End</b></td>
     <td>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -68,7 +68,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/server.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Back-End</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/server.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Back-End</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -76,7 +76,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/database.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Bancos</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/database.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Bancos</b></td>
     <td>
       <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -85,7 +85,7 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/monitor.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Desktop</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/monitor.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Desktop</b></td>
     <td>
       <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white" />
@@ -93,14 +93,14 @@ const dev = {
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Testes</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Testes</b></td>
     <td>
       <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
       <img src="https://img.shields.io/badge/Node%20Test%20Runner-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><b><img src="https://api.iconify.design/lucide/wrench.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Ferramentas</b></td>
+    <td><b><img src="https://api.iconify.design/lucide/wrench.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" />&nbsp;Ferramentas</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -117,7 +117,7 @@ const dev = {
 
 ## `./projetos`
 
-### <img src="https://api.iconify.design/lucide/calculator.svg?color=%23F2784B&height=22" height="22" align="top" alt="" /> Calc3D
+### <img src="https://api.iconify.design/lucide/calculator.svg?color=%23F2784B&height=22" height="22" align="absmiddle" alt="" /> Calc3D
 
 > Calculadora de **custo real e preço de venda** para impressão 3D. App nativo para macOS, versão web e app para Windows.
 
@@ -151,7 +151,7 @@ const dev = {
 
 <br/>
 
-### <img src="https://api.iconify.design/lucide/lock.svg?color=%23F2784B&height=22" height="22" align="top" alt="" /> Portal do Vendedor
+### <img src="https://api.iconify.design/lucide/lock.svg?color=%23F2784B&height=22" height="22" align="absmiddle" alt="" /> Portal do Vendedor
 
 > Plataforma web corporativa para a operação comercial de venda e locação de containers, do cadastro do cliente à emissão do contrato. **Repositório privado**: abaixo, o que foi construído.
 
@@ -169,17 +169,17 @@ const dev = {
 
 <br/>
 
-<b><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Autenticação e acesso</b>
+<b><img src="https://api.iconify.design/lucide/shield-check.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" /> Autenticação e acesso</b>
 - Login por e-mail ou nome de usuário, com **JWT** e senhas com hash (`bcrypt`)
 - Perfis `admin` e `seller`: o vendedor vê só os próprios clientes e documentos; o admin tem visão global, gerencia usuários e produtos e exporta CSV
 
-<b><img src="https://api.iconify.design/lucide/file-text.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Clientes e documentos</b>
+<b><img src="https://api.iconify.design/lucide/file-text.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" /> Clientes e documentos</b>
 - Cadastro de clientes com busca por nome ou CPF/CNPJ, endereço automático via **ViaCEP** e consulta de **CNPJ**
 - **PDF** de capas, orçamentos (venda e locação) e ordens de serviço, com numeração sequencial no banco
 - Contratos de compra e venda e de locação a partir de templates internos, em **PDF** e **DOCX**
 - Reaproveitamento de documentos salvos (capa → OS → contrato)
 
-<b><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23F2784B&height=18" height="18" align="top" alt="" /> Gestão e CRM</b>
+<b><img src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%23F2784B&height=18" height="18" align="absmiddle" alt="" /> Gestão e CRM</b>
 - Dashboard com indicadores de orçamentos, clientes e últimos documentos
 - CRM com reativação de clientes, unificação de duplicados, metas de vendas, fila de trabalho, notificações e anexos
 - **Auditoria**, suporte interno, tours guiados e exportação para **Excel**
